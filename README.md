@@ -1,0 +1,30 @@
+# Жансерик Кара-Мурзин
+
+Фулстек-разработчик. Делаю сайты, каталоги и веб-приложения целиком: интерфейс, сервер, база данных, выкладка на сервер и поддержка после запуска.
+
+## С чем работаю
+
+- **Интерфейсы:** React, Next.js, TypeScript, Tailwind CSS, Mantine
+- **Сервер:** PHP и Symfony, Node.js, Python
+- **Данные:** PostgreSQL, MySQL и MariaDB, Doctrine, Drizzle
+- **Инфраструктура:** Docker, CI в GitLab, Caddy, резервные копии и мониторинг
+
+## Проекты, которые можно открыть
+
+| Проект | Что это | Ссылки |
+|---|---|---|
+| Eva Brunch | Демо приложения для гостей кафе: меню, предзаказ, бонусная карта, бронь стола | [открыть](https://kara-murzin.github.io/eva-brunch-demo/), [код](https://github.com/Kara-Murzin/eva-brunch-demo) |
+| Экспорт авто из Японии | Сайт в трёх вариантах дизайна на одной кодовой базе, каталог с фильтрами и ценами в трёх валютах | [открыть](https://kara-murzin.github.io/auto-export-demo/), [код](https://github.com/Kara-Murzin/auto-export-demo) |
+| Калькулятор освещённости | Расчёт числа светильников по параметрам помещения и каталогу | [открыть](https://kara-murzin.github.io/lighting-calculator/), [код](https://github.com/Kara-Murzin/lighting-calculator) |
+| Сверка Excel-накладных | Обработка и сравнение Excel-файлов прямо в браузере | [открыть](https://kara-murzin.github.io/excel-parcer/), [код](https://github.com/Kara-Murzin/excel-parcer) |
+| Подбор автомобиля | Многошаговая форма на React, TypeScript и Mantine с проверкой ответов API | [код](https://github.com/Kara-Murzin/car-app) |
+
+## Коммерческая разработка
+
+Основная работа лежит в закрытых репозиториях заказчиков, поэтому здесь её не видно:
+
+- **Сайт автодилера с каталогом.** Next.js, TypeScript, PostgreSQL, сборщики объявлений на Python, Docker, выкладка и обслуживание сервера. Сделал проект целиком.
+- **Торговая платформа.** PHP и Symfony, несколько сотен коммитов в команде.
+- **Сервис с личным кабинетом и панелью администратора.** Symfony и React, работа в команде.
+
+Подробности и примеры покажу по запросу.
