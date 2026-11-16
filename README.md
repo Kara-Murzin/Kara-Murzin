@@ -21,8 +21,7 @@
 | Eva Brunch | Демо приложения для гостей кафе: меню, предзаказ, бонусная карта, бронь стола | [открыть](https://kara-murzin.github.io/eva-brunch-demo/), [код](https://github.com/Kara-Murzin/eva-brunch-demo) |
 | Экспорт авто из Японии | Сайт в трёх вариантах дизайна на одной кодовой базе, каталог с фильтрами и ценами в трёх валютах | [открыть](https://kara-murzin.github.io/auto-export-demo/), [код](https://github.com/Kara-Murzin/auto-export-demo) |
 | Калькулятор освещённости | Расчёт числа светильников по параметрам помещения и каталогу | [открыть](https://kara-murzin.github.io/lighting-calculator/), [код](https://github.com/Kara-Murzin/lighting-calculator) |
-| Сверка Excel-накладных | Обработка и сравнение Excel-файлов прямо в браузере | [открыть](https://kara-murzin.github.io/excel-parcer/), [код](https://github.com/Kara-Murzin/excel-parcer) |
-| Подбор автомобиля | Многошаговая форма на React, TypeScript и Mantine с проверкой ответов API | [код](https://github.com/Kara-Murzin/car-app) |
+| Каталог Ferrari | Каталог автомобилей Ferrari из Японии: сборщик объявлений на Python с переводом на английский, сайт с фильтрами и ежедневным обновлением | закрытый репозиторий, покажу по запросу |
 
 ## Коммерческая разработка
 
