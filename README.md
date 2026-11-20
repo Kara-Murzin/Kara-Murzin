@@ -1,6 +1,6 @@
 # Zhanserik Kara-Murzin
 
-Web developer based in Toyama, Japan. I build web applications and websites for businesses end to end: interface, server, database, deployment and support after launch. Right now I am building apps for coffee shops and cafes: menu, pre-order and loyalty points on the guest's phone.
+Web developer based in Kawasaki, Japan. I build web applications and websites for businesses end to end: interface, server, database, deployment and support after launch. Right now I am building apps for coffee shops and cafes: menu, pre-order and loyalty points on the guest's phone.
 
 ## Contact
 
