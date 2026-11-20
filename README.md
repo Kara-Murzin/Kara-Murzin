@@ -1,33 +1,34 @@
-# Жансерик Кара-Мурзин
+# Zhanserik Kara-Murzin
 
-Разработчик. Делаю приложения и сайты для бизнеса целиком: интерфейс, сервер, база данных, выкладка и поддержка после запуска. Сейчас собираю приложения для кофеен и кафе: меню, предзаказ и бонусы в телефоне гостя.
+Web developer based in Toyama, Japan. I build web applications and websites for businesses end to end: interface, server, database, deployment and support after launch. Right now I am building apps for coffee shops and cafes: menu, pre-order and loyalty points on the guest's phone.
 
-## Связаться
+## Contact
 
 - Telegram: [@Zhosek](https://t.me/Zhosek)
 - WhatsApp: [+81 80 8522 8017](https://wa.me/818085228017)
 
-## С чем работаю
+## What I work with
 
-- **Интерфейсы:** React, Next.js, TypeScript, Tailwind CSS, Mantine
-- **Сервер:** PHP и Symfony, Python
-- **Данные:** PostgreSQL, MySQL и MariaDB, Doctrine, Drizzle
-- **Инфраструктура:** Docker, CI в GitLab, Caddy, резервные копии
+- **Back end:** PHP and Symfony, Python
+- **Front end:** JavaScript, Vue.js, React, Next.js, TypeScript, Tailwind CSS, Mantine
+- **Data:** PostgreSQL, MySQL and MariaDB, Doctrine, Drizzle
+- **Infrastructure:** Docker, GitLab CI, Caddy, backups
 
-## Проекты, которые можно открыть
+## Projects you can open
 
-| Проект | Что это | Ссылки |
+| Project | What it is | Links |
 |---|---|---|
-| Приложение для кафе | Демо приложения для гостей: меню, предзаказ, бонусная карта, бронь стола | [открыть](https://kara-murzin.github.io/cafe-app-demo/), [код](https://github.com/Kara-Murzin/cafe-app-demo) |
-| Экспорт авто из Японии | Сайт в трёх вариантах дизайна на одной кодовой базе, каталог с фильтрами и ценами в трёх валютах | [открыть](https://kara-murzin.github.io/auto-export-demo/), [код](https://github.com/Kara-Murzin/auto-export-demo) |
-| Каталог Ferrari | Сайт экспортёра авто из Японии на двух языках: каталог из тысячи Ferrari с фильтрами и ценами в долларах, сборщики объявлений на Python | [открыть](https://kara-murzin.github.io/ferrari-catalog-demo/), [код](https://github.com/Kara-Murzin/ferrari-catalog-demo) |
+| Cafe app | Demo of an app for cafe guests: menu, pre-order, loyalty card, table booking | [open](https://kara-murzin.github.io/cafe-app-demo/), [code](https://github.com/Kara-Murzin/cafe-app-demo) |
+| Car export from Japan | A website in three designs on one code base, a catalog with filters and prices in three currencies | [open](https://kara-murzin.github.io/auto-export-demo/), [code](https://github.com/Kara-Murzin/auto-export-demo) |
+| Ferrari catalog | Website of a car exporter from Japan in two languages: a catalog of a thousand Ferraris with filters and prices in dollars, listing scrapers in Python | [open](https://kara-murzin.github.io/ferrari-catalog-demo/), [code](https://github.com/Kara-Murzin/ferrari-catalog-demo) |
+| Car selection app | Multi-step form in React, TypeScript, Vite and Mantine; API responses are validated with Zod | [code](https://github.com/Kara-Murzin/car-app) |
 
-## Где работаю
+## Where I work
 
-Код этих проектов лежит в закрытых репозиториях компаний, поэтому здесь его не видно.
+The code of these projects is in private company repositories, so it is not visible here.
 
-- **[Lion Motors](https://lionmotors.co.jp/)** — экспорт премиальных автомобилей из Японии. Сделал сайт целиком: Next.js, TypeScript, PostgreSQL, сборщики объявлений на Python, Docker, выкладка и обслуживание сервера.
-- **[AFA Trading](https://afa-trading.co.jp/ru/)** — продажа автомобилей с аукционов Японии и из наличия. Работаю в команде над платформой на PHP и Symfony и сборщиком данных о машинах в наличии.
-- **[Самураюшка](https://samurayushka.ru/)** — сервис покупок на аукционах и в интернет-магазинах Японии с доставкой в Россию. Работаю в команде над сайтом и панелью администратора: Symfony и React.
+- **[Lion Motors](https://lionmotors.co.jp/)** — export of premium cars from Japan. I built the whole website: Next.js, TypeScript, PostgreSQL, listing scrapers in Python, Docker, deployment and server maintenance.
+- **[AFA Trading](https://afa-trading.co.jp/)** — sale of cars from Japanese auctions and from stock. I work in a team on a platform in PHP and Symfony and on a collector of data about cars in stock.
+- **[Samurayushka](https://en.samurayushka.ru/)** — a service for buying at Japanese auctions and online stores with delivery to Russia. I work in a team on the website and the admin panel: PHP, Symfony and JavaScript.
 
-Подробности и примеры покажу по запросу: напишите в Telegram или WhatsApp.
+I can show details and examples on request: message me on Telegram or WhatsApp.
